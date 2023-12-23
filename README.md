@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shubhamsinghshubham777@gmail.com**
 
-- ⚡ Fun fact **I'm a musician at ❤️**
+- ⚡ Fun fact, **I'm a musician at ❤️** (Find me at https://www.youtube.com/shubhamsinghmusic)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
