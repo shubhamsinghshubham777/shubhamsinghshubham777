@@ -1,4 +1,8 @@
 name: Latest blog post workflow
+
+permissions:
+  contents: write
+
 on: 
     schedule:
         - cron: '0 * * * *'
