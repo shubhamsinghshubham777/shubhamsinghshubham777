@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shubham Singh</h1>
-<h3>Originally from Delhi, India, I'm an Android enthusiast with 3+ years of experience under my belt. Building beautiful mobile UIs and UX with Flutter and Kotlin Multiplatform is my jam. I also love tinkering with web development using Typescript and frameworks like Next.js/React. And hey, I'm even dipping my toes in backend API development with Ktor! Always up for new challenges and exciting opportunities, so hit me up!</h3>
+<h1 align="center">Hi 👋, I'm Shubham</h1>
+<p>Originally from Delhi, India, I'm an Android enthusiast with 3+ years of experience under my belt. Building beautiful mobile UIs and UX with Flutter and Kotlin Multiplatform is my jam. I also love tinkering with web development using Typescript and frameworks like Next.js/React. And hey, I'm even dipping my toes in backend API development with Ktor! Always up for new challenges and exciting opportunities, so hit me up!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsinghshubham777&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsinghshubham777" /> </p>
 
