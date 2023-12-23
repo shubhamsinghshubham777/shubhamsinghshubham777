@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to write a Compose Multiplatform library?](https://medium.com/@shubhamsinghshubham777/how-to-write-a-compose-multiplatform-library-66ae1b7edb81?source=rss-de48afc2c715------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
