@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Animate screen switches for IndexedStack in Flutter](https://medium.com/@shubhamsinghshubham777/animate-screen-switches-for-indexedstack-in-flutter-a66fe488006b?source=rss-de48afc2c715------2)
 - [How to write a Compose Multiplatform library?](https://medium.com/@shubhamsinghshubham777/how-to-write-a-compose-multiplatform-library-66ae1b7edb81?source=rss-de48afc2c715------2)
 <!-- BLOG-POST-LIST:END -->
 
