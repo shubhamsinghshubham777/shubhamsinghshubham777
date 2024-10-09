@@ -15,4 +15,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://medium.com/feed/@shubhamsinghshubham777"
+                feed_list: "https://medium.com/feed/@shubhamsinghshubham777,https://medium.com/feed/@shubham.singh_1385"
