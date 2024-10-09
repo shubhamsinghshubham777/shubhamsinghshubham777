@@ -21,6 +21,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Animate screen switches for IndexedStack in Flutter](https://medium.com/@shubhamsinghshubham777/animate-screen-switches-for-indexedstack-in-flutter-a66fe488006b?source=rss-de48afc2c715------2)
 - [How to write a Compose Multiplatform library?](https://medium.com/@shubhamsinghshubham777/how-to-write-a-compose-multiplatform-library-66ae1b7edb81?source=rss-de48afc2c715------2)
+- [Why and How did we migrate Barricade from Java Poet to KSP?](https://medium.com/@shubham.singh_1385/why-and-how-did-we-migrate-barricade-from-java-poet-to-ksp-b2141f533401?source=rss-4b6f9bc7a78b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
