@@ -1,11 +1,23 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
-<p>Originally from Delhi, India, I'm an Android enthusiast with 3.5+ years of experience under my belt. Building beautiful mobile UIs and UX with Flutter and Kotlin Multiplatform is my jam. I also love tinkering with web development using Typescript and frameworks like Next.js/React. And hey, I'm even dipping my toes in backend API development with Ktor and Dart Frog! Always up for new challenges and exciting opportunities, so hit me up!</p>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=shubhamsinghshubham777" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsinghshubham777&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsinghshubham777" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=shubhamsinghshubham777" alt="shubhamsinghshubham777" /></a> </p>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> I'm Shubham</h1>
+<p>
+  Originally from Delhi, India, I'm an Android enthusiast with 3.5+ years of experience under my belt. Building beautiful mobile UIs and UX with Flutter and Kotlin Multiplatform is my jam. I also love tinkering with web development using Typescript and frameworks like Next.js/React. And hey, I'm even dipping my toes in backend API development with Ktor and Dart Frog! Always up for new challenges and exciting opportunities, so hit me up!
+</p>
 
-<p align="left"> <a href="https://twitter.com/shubhsingh0708" target="blank"><img src="https://img.shields.io/twitter/follow/shubhsingh0708?logo=twitter&style=for-the-badge" alt="shubhsingh0708" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shubhamsinghshubham777&theme=nord&margin-w=16" alt="shubhamsinghshubham777" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://twitter.com/shubhsingh0708" target="blank"><img src="https://img.shields.io/twitter/follow/shubhsingh0708?style=social" alt="shubhsingh0708" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning **Kotlin/Compose Multiplatform and Flutter**
 
@@ -17,27 +29,41 @@
 
 - ⚡ Fun fact, **I'm a musician at ❤️** (Find me at https://www.youtube.com/shubhamsinghmusic)
 
-### Blogs posts
+## 👨‍💻 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Animate screen switches for IndexedStack in Flutter](https://medium.com/@shubhamsinghshubham777/animate-screen-switches-for-indexedstack-in-flutter-a66fe488006b?source=rss-de48afc2c715------2)
 - [How to write a Compose Multiplatform library?](https://medium.com/@shubhamsinghshubham777/how-to-write-a-compose-multiplatform-library-66ae1b7edb81?source=rss-de48afc2c715------2)
 - [Why and How did we migrate Barricade from Java Poet to KSP?](https://medium.com/@shubham.singh_1385/why-and-how-did-we-migrate-barricade-from-java-poet-to-ksp-b2141f533401?source=rss-4b6f9bc7a78b------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+## 🌎 Connect with me
 <p align="left">
-<a href="https://twitter.com/shubhsingh0708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhsingh0708" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubhamsinghshubham777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamsinghshubham777" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20325172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20325172" height="30" width="40" /></a>
-<a href="https://medium.com/@shubhamsinghshubham777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubhamsinghshubham777" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shubhamsinghmusic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shubhamsinghmusic" height="30" width="40" /></a>
+  <a href="https://twitter.com/shubhsingh0708">
+    <img src="https://skillicons.dev/icons?theme=dark&perline=10&i=twitter" alt="shubhsingh0708" width="40" />
+  </a>
+
+  <a href="https://linkedin.com/in/shubhamsinghshubham777">
+    <img src="https://skillicons.dev/icons?theme=dark&perline=10&i=linkedin" alt="shubhamsinghshubham777" width="40" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/20325172">
+    <img src="https://skillicons.dev/icons?theme=dark&perline=10&i=stackoverflow" width="40" />
+  </a>
+
+  <a href="https://medium.com/@shubhamsinghshubham777">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubhamsinghshubham777" width="40" />
+  </a>
+
+  <a href="https://www.youtube.com/c/shubhamsinghmusic">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shubhamsinghmusic" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> </p>
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=androidstudio,apple,dart,figma,firebase,flutter,gcp,git,github,githubactions,gradle,graphql,idea,java,kotlin,ktor,materialui,mongodb,nextjs,postgres,postman,react,supabase,ts" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamsinghshubham777&show_icons=true&theme=dark&locale=en&layout=compact" alt="shubhamsinghshubham777" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamsinghshubham777&show_icons=true&theme=dark&locale=en" alt="shubhamsinghshubham777" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamsinghshubham777&theme=dark" alt="shubhamsinghshubham777" /></p>
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=shubhamsinghshubham777&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsinghshubham777&theme=vue-dark&layout=compact" />
+</div>
