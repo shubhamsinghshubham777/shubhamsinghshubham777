@@ -60,7 +60,7 @@
 </p>
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=androidstudio,apple,dart,figma,firebase,flutter,gcp,git,github,githubactions,gradle,graphql,idea,java,kotlin,ktor,materialui,mongodb,nextjs,postgres,postman,react,supabase,ts" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=androidstudio,apple,dart,figma,firebase,flutter,gcp,git,github,githubactions,gradle,graphql,idea,java,kotlin,ktor,materialui,mongodb,nextjs,postgres,postman,react,supabase,ts,html,css" />
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
