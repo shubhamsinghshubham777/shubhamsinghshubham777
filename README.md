@@ -8,7 +8,7 @@
   Originally from Delhi, India, I'm an Android enthusiast with 3.5+ years of experience under my belt. Building beautiful mobile UIs and UX with Flutter and Kotlin Multiplatform is my jam. I also love tinkering with web development using Typescript and frameworks like Next.js/React. And hey, I'm even dipping my toes in backend API development with Ktor and Dart Frog! Always up for new challenges and exciting opportunities, so hit me up!
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=shubhamsinghshubham777&theme=nord&margin-w=16&margin-h=16&column=4" alt="shubhamsinghshubham777" />
   </a>
