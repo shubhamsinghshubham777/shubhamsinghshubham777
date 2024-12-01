@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Kotlin/Compose Multiplatform and Flutter**
 
-- 📝 I regularly write articles on [https://medium.com/@shubhamsinghshubham777](https://medium.com/@shubhamsinghshubham777)
+- 📝 I write articles on [https://medium.com/@shubhamsinghshubham777](https://medium.com/@shubhamsinghshubham777)
 
 - 💬 Ask me about **Kotlin/Compose and Dart/Flutter**
 
