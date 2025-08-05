@@ -5,17 +5,12 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> I'm Shubham</h1>
 <p>
-  Originally from Delhi, India, I'm an Android enthusiast with 3.5+ years of experience under my belt. Building beautiful mobile UIs and UX with Flutter and Kotlin Multiplatform is my jam. I also love tinkering with web development using Typescript and frameworks like Next.js/React. And hey, I'm even dipping my toes in backend API development with Ktor and Dart Frog! Always up for new challenges and exciting opportunities, so hit me up!
+  Originally from Delhi, India, I'm an mobile apps enthusiast with ~4 years of experience under my belt. Building beautiful mobile UIs and UX with Flutter and Kotlin Multiplatform is my jam. I also love tinkering with web development using Typescript and frameworks like Next.js/React. And hey, I'm even dipping my toes in backend API development with Ktor and Dart Frog! Always up for new challenges and exciting opportunities, so hit me up!
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=shubhamsinghshubham777&theme=nord&margin-w=16&margin-h=16&column=4" alt="shubhamsinghshubham777" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/shubhsingh0708" target="blank"><img src="https://img.shields.io/twitter/follow/shubhsingh0708?style=social" alt="shubhsingh0708" />
   </a>
 </p>
 
@@ -25,7 +20,7 @@
 
 - 💬 Ask me about **Kotlin/Compose and Dart/Flutter**
 
-- 📫 How to reach me **shubhamsinghshubham777@gmail.com**
+- 📫 How to reach me shubhamsinghshubham777@gmail.com
 
 - ⚡ Fun fact, **I'm a musician at ❤️** (Find me at https://www.youtube.com/shubhamsinghmusic)
 
@@ -39,23 +34,23 @@
 ## 🌎 Connect with me
 <p align="left">
   <a href="https://twitter.com/shubhsingh0708">
-    <img src="https://skillicons.dev/icons?theme=dark&perline=10&i=twitter" alt="shubhsingh0708" width="40" />
+    <img src="https://skills.syvixor.com/api/icons?i=x" alt="shubhsingh0708" width="40" />
   </a>
 
   <a href="https://linkedin.com/in/shubhamsinghshubham777">
-    <img src="https://skillicons.dev/icons?theme=dark&perline=10&i=linkedin" alt="shubhamsinghshubham777" width="40" />
+    <img src="https://skills.syvixor.com/api/icons?i=linkedin" alt="shubhamsinghshubham777" width="40" />
   </a>
 
   <a href="https://stackoverflow.com/users/20325172">
-    <img src="https://skillicons.dev/icons?theme=dark&perline=10&i=stackoverflow" width="40" />
+    <img src="https://skills.syvixor.com/api/icons?i=stackoverflow" width="40" />
   </a>
 
   <a href="https://medium.com/@shubhamsinghshubham777">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubhamsinghshubham777" width="40" />
+    <img src="https://skills.syvixor.com/api/icons?i=medium" alt="@shubhamsinghshubham777" width="40" />
   </a>
 
   <a href="https://www.youtube.com/c/shubhamsinghmusic">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shubhamsinghmusic" width="40" />
+    <img src="https://skills.syvixor.com/api/icons?i=youtube" alt="shubhamsinghmusic" width="40" />
   </a>
 </p>
 
